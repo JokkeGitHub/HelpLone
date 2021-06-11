@@ -8,6 +8,7 @@ namespace H2_I_In_Solid_HelpLone
 {
     interface ICleave
     {
+        //This interface is responsible for the cleave skill
         public void Cleave()
         {
             Console.WriteLine("I'm cleaving someone");
